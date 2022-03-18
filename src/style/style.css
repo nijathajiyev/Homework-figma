@@ -6,7 +6,6 @@
 
     body{
         background-color: #E5E5E5;
-        margin-top: 30px;
     }
     .container{
         width: 1600px;
@@ -606,7 +605,7 @@ header{
 }
 
 .card-2{
-    width: 33%;
+    width: 31%;
     display: flex;
     flex-direction: column;
     box-shadow: 10px 40px 50px 0px #E5E9F666;
@@ -615,7 +614,8 @@ header{
 }
 
 .card2-img img{
-    width: 95%;
+    width: 99%;
+    /* height: 99%; */
 }
 
 .card2-title{
@@ -654,16 +654,12 @@ header{
 }
 
 .card-3{
-    width: 32%;
+    width: 31.2%;
     display: flex;
     flex-direction: column;
     box-shadow: 10px 40px 50px 0px #E5E9F666;
     margin-bottom: 35px;
     border-radius: 20px;
-}
-
-.card3-img img{
-    width: 100%;
 }
 
 .card3-title{
